@@ -1,0 +1,17 @@
+{
+    "name": "tduesterhus/templado5-laravel",
+    "description": "A laravel integration of templado",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tduesterhus\\Templado5Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tobias Düsterhus",
+            "email": "tobias.duesterhus@appmotion.de"
+        }
+    ],
+    "require": {}
+}
